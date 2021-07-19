@@ -1,1 +1,1 @@
-A
+I am a persistent person who never gives on pursuing his goals. I have a degree in Computer Engineering taken on Universiade de Trás-os-Montes e Alto Douro and I am currently getting my master's degree on Instituto Superior de Engenharia do Porto specializing on Graphics and Multimedia Systems. I consider myself a person with strong leadership skills and good teamwork with very developed social skills. In the future, I see myself working on software development/improvement or leading a team in the field.
