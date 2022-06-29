@@ -31,5 +31,5 @@
 <p align="Justify">I'm a persistent person who never gives up on pursuing his goals. I have a degree in Computer Engineering taken on Universiade de Trás-os-Montes e Alto Douro and I am currently getting my master's degree on Instituto Superior de Engenharia do Porto specializing on Graphics and Multimedia Systems. I consider myself a person with strong leadership skills and good teamwork with very developed social skills. In the future, I see myself leading a team of software engineers to continuously improve both the product/service while helping improve those around me as well as my self, driving the team as a whole to success.</p>
 
 ## **Contacts**
-<a href="https://www.linkedin.com/in/hugofanes/" target="_blank"><img height ="30em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/vitor-net0/" target="_blank"><img height ="30em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:vitordiogo2000@sapo.pt"><img height="30em" src="https://imgs.sapo.pt/sapologos/current/e2dcdb4faa96544b9815494d52f5e3167353d5e6937c2f4ff41597a7f32c6764.png" target="_blank"></a>
