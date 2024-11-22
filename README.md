@@ -1,5 +1,5 @@
 # Hi! I'm Vítor! 😎
-## 💻 I'm a software engineer at Blip.pt | FanDuel
+## 💻 I'm a software engineer at Blip.pt | FanDuel. My work <a href="https://github.com/VitorNetoFanduel">account</a>
 ## 📚 I have a master's degree on Computer Engineering
 
 <br/><br/>
